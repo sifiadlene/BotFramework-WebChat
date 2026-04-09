@@ -43,7 +43,7 @@
     "jest": "^25.1.0",
     "node-fetch": "^2.6.0",
     "prettier": "^1.19.1",
-    "serve": "10.1.2",
+    "serve": "14.2.6",
     "simple-update-in": "^2.1.1",
     "source-map-loader": "^0.2.4",
     "webpack": "^4.42.0",
