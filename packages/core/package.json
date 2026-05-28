@@ -37,7 +37,7 @@
     "babel-plugin-transform-inline-environment-variables": "^0.4.3",
     "botframework-directlinejs": "^0.11.6",
     "concurrently": "^5.1.0",
-    "eslint": "^6.8.0",
+    "eslint": "^10.4.0",
     "eslint-plugin-prettier": "^3.1.2",
     "prettier": "^1.19.1",
     "typescript": "^3.8.3"
